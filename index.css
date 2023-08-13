@@ -1,0 +1,42 @@
+
+body {
+    background-image: url('https://vetc.com.vn/upload_images/images/2023/06/30/16%209%20ngang.jpg');
+    background-size: center;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin:0;
+}
+h1 {
+    text-align: center;
+    color:rgb(71, 72, 65);
+    margin: 0;
+}
+#center1 {
+    width: 500px;
+    height: 300px;
+    text-align: center;
+    background-color: rgb(208, 247, 208);
+    font-size: 25px;
+    margin:auto;
+    line-height: 60px;
+    border-radius: 5%;
+
+}
+#fnhap {
+    height:auto;
+    width: 350px;
+    border-radius: 25%;
+}
+#bsxe {
+    width: 270px;
+    height: 45px;
+    font-size: 25px;
+    border-radius: 5%;
+}
+#myBtn {
+    margin-top: auto;
+    width: 130px;
+    height: 40px;
+    font-size: 20px;
+}
